@@ -1,0 +1,16 @@
+@import './mixins.scss';
+@import './typography';
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: cadetblue;
+    color: white;
+    height: 120px;
+  }
+
+  body {
+    margin-top: 120px;
+  }
