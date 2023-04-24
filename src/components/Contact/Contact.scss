@@ -1,0 +1,18 @@
+.contact {
+    display: flex;
+    gap: var(--spacing, 16px);
+    padding: var(--spacing);
+    border-bottom: 1px solid lightgray;
+    width: 100%;
+
+    &__img {
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+    }
+
+    &__text {
+        margin: 0;
+    }
+}

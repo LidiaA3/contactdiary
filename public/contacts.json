@@ -1,0 +1,55 @@
+[
+    {
+        "name": "María",
+        "img": "http://placekitten.com/200/200",
+        "text": "Enthusiastic",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    },
+    {
+        "name": "Estefanía",
+        "img": "http://placekitten.com/200/200",
+        "text": "Sunny day",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    },{
+        "name": "Pedro",
+        "img": "http://placekitten.com/200/200",
+        "text": "Hard day",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    },
+    {
+        "name": "Celia",
+        "img": "http://placekitten.com/200/200",
+        "text": "Come on",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    },
+    {
+        "name": "Juan",
+        "img": "http://placekitten.com/200/200",
+        "text": "Living...",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    },
+    {
+        "name": "Carla",
+        "img": "http://placekitten.com/200/200",
+        "text": "Music time",
+        "messeges": [
+            "Hola, qué tal?",
+            "Todo perfecto por aquí"
+        ]
+    }
+]
